@@ -15,4 +15,5 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-03A9F4?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F44336?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white" />
 </p>
