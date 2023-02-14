@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alwi</h1>
-<h3 align="center">Mas mas developer biasa</h3>
+<h3 align="center">Ordinary Developer</h3>
 
 ### Personal Stuff
 - 👨🏼‍💻 **Open for Freelance Project** build website / API
