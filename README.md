@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alwi</h1>
-<h3 align="center">Ordinary Developer</h3>
+<h3 align="center">Ordinary Web Developer</h3>
 
 ### Personal Stuff
-- 👨🏼‍💻 **Open for Freelance Project** build website / API
-
+- 👨🏼‍💻 **Open for Freelance Project** build website
+<!--
 - 📫 How to reach me: [Linkedin](https://linkedin.com) or email me at **@gmail.com**  ;
 
 <h3>Things I code with 💻</h3>
@@ -17,3 +17,4 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F44336?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white" />
 </p>
+-->
